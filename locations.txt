@@ -48,3 +48,4 @@ Tianjin, CHINA
 Ouagadougou, Burkina Faso
 Almaty, Kazakhstan
 Dhaka, Bangladesh 
+Santiago, Dominican Republic
